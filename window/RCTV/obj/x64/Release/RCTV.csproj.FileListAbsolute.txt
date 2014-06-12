@@ -1,0 +1,6 @@
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\x64\Release\RCTV.exe.config
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x64\Release\RCTV.Login.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x64\Release\RCTV.Properties.Resources.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x64\Release\RCTV.RCTVmain.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x64\Release\RCTV.SignUp.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x64\Release\RCTV.csproj.GenerateResource.Cache

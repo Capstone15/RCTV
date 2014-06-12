@@ -1,0 +1,74 @@
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\RCTV.exe
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\RCTV.pdb
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Debug\RCTV.Properties.Resources.resources
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Debug\RCTV.exe
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Debug\RCTV.pdb
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Debug\RCTV.Login.resources
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Debug\RCTV.SignUp.resources
+c:\users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\MySQLDriverCS.dll
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Debug\RCTV.RCTVmain.resources
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\AForge.Video.dll
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\AForge.dll
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\AForge.Video.xml
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\AForge.xml
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Debug\RCTV.exe.config
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\RCTV.exe.config
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\obj\x86\Debug\RCTV.exe
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\obj\x86\Debug\RCTV.pdb
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\RCTV.exe
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\RCTV.pdb
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\MySQLDriverCS.dll
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\AForge.Video.dll
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\AForge.dll
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\AForge.Video.xml
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\bin\Debug\AForge.xml
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\obj\x86\Debug\RCTV.Login.resources
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\obj\x86\Debug\RCTV.Properties.Resources.resources
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\obj\x86\Debug\RCTV.RCTVmain.resources
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\obj\x86\Debug\RCTV.SignUp.resources
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\울트라\Documents\Visual Studio 2010\Projects\RCTV (4)\RCTV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Debug\RCTV.exe.config
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Debug\RCTV.exe
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Debug\RCTV.pdb
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Debug\RCTV.exe
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Debug\RCTV.pdb
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Debug\AForge.Video.dll
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Debug\AForge.dll
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Debug\AForge.Video.xml
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Debug\AForge.xml
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Debug\RCTV.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Debug\RCTV.Login.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Debug\RCTV.Properties.Resources.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Debug\RCTV.RCTVmain.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Debug\RCTV.SignUp.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Debug\RCTV.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\bin\Debug\RCTV.exe.config
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\obj\x86\Debug\RCTV.exe
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\obj\x86\Debug\RCTV.pdb
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\bin\Debug\RCTV.exe
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\bin\Debug\RCTV.pdb
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\bin\Debug\AForge.dll
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\bin\Debug\AForge.Video.xml
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\bin\Debug\AForge.xml
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\obj\x86\Debug\RCTV.Login.resources
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\obj\x86\Debug\RCTV.Properties.Resources.resources
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\obj\x86\Debug\RCTV.RCTVmain.resources
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\obj\x86\Debug\RCTV.SignUp.resources
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\진짜 최종\원본\코드\윈도우\RCTV\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\캡스톤디자인\원본\코드\윈도우\RCTV\bin\Debug\RCTV.exe.config
+C:\Users\Administrator\Desktop\캡스톤디자인\원본\코드\윈도우\RCTV\obj\x86\Debug\RCTV.exe
+C:\Users\Administrator\Desktop\캡스톤디자인\원본\코드\윈도우\RCTV\obj\x86\Debug\RCTV.pdb

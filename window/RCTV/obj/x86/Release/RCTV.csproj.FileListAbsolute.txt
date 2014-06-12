@@ -1,0 +1,35 @@
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\RCTV.exe.config
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\RCTV.exe
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\RCTV.pdb
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\MySQLDriverCS.dll
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\AForge.Video.dll
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\AForge.dll
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\AForge.Video.FFMPEG.xml
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\AForge.Video.xml
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\bin\Release\AForge.xml
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Release\RCTV.Login.resources
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Release\RCTV.Properties.Resources.resources
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Release\RCTV.RCTVmain.resources
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Release\RCTV.SignUp.resources
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Release\RCTV.exe
+C:\Users\울트라\documents\visual studio 2010\Projects\RCTV\RCTV\obj\x86\Release\RCTV.pdb
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Release\RCTV.exe.config
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Release\RCTV.exe
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Release\RCTV.pdb
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Release\RCTV.exe
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Release\RCTV.pdb
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Release\AForge.Video.dll
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Release\AForge.dll
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Release\AForge.Video.FFMPEG.xml
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Release\AForge.Video.xml
+C:\Users\L\Desktop\RCTV_fianl\RCTV\bin\Release\AForge.xml
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Release\RCTV.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Release\RCTV.Login.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Release\RCTV.Properties.Resources.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Release\RCTV.RCTVmain.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Release\RCTV.SignUp.resources
+C:\Users\L\Desktop\RCTV_fianl\RCTV\obj\x86\Release\RCTV.csproj.GenerateResource.Cache
