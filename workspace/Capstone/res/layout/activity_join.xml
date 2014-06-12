@@ -1,0 +1,133 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg_gray"
+    tools:context=".JoinActivity" >
+
+    <ScrollView
+        android:id="@+id/login_form"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            style="@style/LoginFormContainer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginTop="40dip"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dip"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/edt_join_id"
+                    android:layout_width="200dip"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dip"
+                    android:hint="@string/prompt_id"
+                    android:inputType="textVisiblePassword"
+                    android:singleLine="true" />
+
+                <Button
+                    android:id="@+id/btn_id_check"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/selector"
+                    android:text="중복확인"
+                    android:textColor="#FFFFFF" />
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/edt_join_password"
+                android:layout_width="200dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:hint="@string/prompt_password"
+                android:inputType="textVisiblePassword"
+                android:password="true"
+                android:singleLine="true" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dip"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/edt_join_pwCheck"
+                    android:layout_width="200dip"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/prompt_password_check"
+                    android:inputType="textVisiblePassword"
+                    android:password="true"
+                    android:singleLine="true" />
+
+                <TextView
+                    android:id="@+id/view_pwCheckMsg"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#FFFFFFFF"
+                    android:singleLine="true" />
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/edt_join_name"
+                android:layout_width="200dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:hint="@string/prompt_name"
+                android:singleLine="true" />
+
+            <EditText
+                android:id="@+id/edt_join_birth"
+                android:layout_width="200dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dip"
+                android:hint="@string/prompt_birthday"
+                android:singleLine="true" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="15dip"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/edt_join_pronum"
+                    android:layout_width="200dip"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dip"
+                    android:hint="@string/prompt_productnum"
+                    android:inputType="textVisiblePassword"
+                    android:singleLine="true" />
+
+                <Button
+                    android:id="@+id/btn_num_check"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:background="@drawable/selector"
+                    android:textColor="#FFFFFF"
+                    android:text="번호확인" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_join"
+                android:layout_width="128dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/selector"
+                android:text="가입하기"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
